@@ -1,0 +1,26 @@
+# Compiled C files
+*.o
+*.out
+*.exe
+
+# Debug files
+*.dSYM/
+*.core
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Build directories
+build/
+bin/
